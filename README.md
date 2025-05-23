@@ -1,4 +1,4 @@
-<h3 align="left">👋 ¡Hola! Soy Thiago, estudiante de programación en Argentina. 🇦🇷 ¡Siempre dispuesto a colaborar, crecer y mejorar! 🚀</h3>
+<h6 align="center">👋 ¡Hola! Soy Thiago, estudiante de programación en Argentina. 🇦🇷 ¡Siempre dispuesto a colaborar, crecer y mejorar! 🚀</h6>
 
 ###
 
@@ -28,13 +28,9 @@
 
 ###
 
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/Thiago Campagnaro">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Thiago%20Campagnaro&count=1&unique=true" alt="Spotify recently played"  />
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4ahybnvccgamyy0w826wf4t1b)
   </a>
 </div>
 
