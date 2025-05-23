@@ -28,7 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Thiago-Campagnaro/Thiago-Campagnaro/output/snake.svg" alt="Snake animation" />
 
 ###
 
