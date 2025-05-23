@@ -1,4 +1,4 @@
-<h6 align="center">👋 ¡Hola! Soy Thiago, estudiante de programación en Argentina. 🇦🇷 ¡Siempre dispuesto a colaborar, crecer y mejorar! 🚀</h6>
+<h4 align="center">👋 ¡Hola! Soy Thiago, estudiante de programación en Argentina. 🇦🇷 ¡Siempre dispuesto a colaborar, crecer y mejorar! 🚀</h4>
 
 ###
 
