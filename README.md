@@ -31,8 +31,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Thiago Campagnaro">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Thiago%20Campagnaro&count=1&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Thiago%20Campagnaro">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Thiago%20Campagnaro&count=1&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
