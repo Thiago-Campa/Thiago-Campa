@@ -31,7 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Campa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -58,9 +61,4 @@ width="42" height="30" alt="linkedin logo"  />
   <h6>LO QUE ESCUCHO MIENTRAS CODEO :))</h6>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=4ahybnvccgamyy0w826wf4t1b&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Campa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
