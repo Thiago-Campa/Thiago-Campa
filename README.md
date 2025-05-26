@@ -43,7 +43,7 @@ width="42" height="30" alt="linkedin logo"  />
 
 <div align="center">
   <h6>ULTIMAS CANCIONES ESCUCHADAS MIENTRAS CODEO :)</h6>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=4ahybnvccgamyy0w826wf4t1b" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=4ahybnvccgamyy0w826wf4t1b&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </div>
 
 ###
