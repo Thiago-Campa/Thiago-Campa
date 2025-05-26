@@ -59,4 +59,8 @@ width="42" height="30" alt="linkedin logo"  />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=4ahybnvccgamyy0w826wf4t1b&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Campagnaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ###
