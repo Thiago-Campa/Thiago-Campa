@@ -42,7 +42,8 @@ width="42" height="30" alt="linkedin logo"  />
 </div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gkloey3anlzme2a7udvmnrsayi" alt="Spotify recently played" />
+  <h1>Mis canciones recientes en Spotify</h1>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=4ahybnvccgamyy0w826wf4t1b" alt="Spotify Recently Played" />
 </div>
 
 ###
