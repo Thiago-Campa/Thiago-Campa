@@ -8,7 +8,7 @@
 
 ###
 <div align="center">
-  <h2 style="margin-top: 20px;">TECNOLOGÍAS QUE MANEJO:</h2>
+  <h3 style="margin-top: 20px;">TECNOLOGÍAS QUE MANEJO:</h3>
 </div>
 
 <div align="center">
