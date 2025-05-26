@@ -41,4 +41,6 @@ width="42" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4ahybnvccgamy0w826wf4t1b)
+
 ###
