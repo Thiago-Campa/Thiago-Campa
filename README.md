@@ -62,3 +62,6 @@ width="42" height="30" alt="linkedin logo"  />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=4ahybnvccgamyy0w826wf4t1b&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Thiago-Campa.Thiago-Campa&"  /> 
+</div>
